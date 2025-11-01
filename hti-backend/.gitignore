@@ -1,0 +1,6 @@
+.mvn
+target
+*.log
+*.tmp
+.idea
+.vscode
